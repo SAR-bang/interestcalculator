@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ब्याज</string>
+    <string name="principle">पैसा उधारो लिएको</string>
+    <string name="rate">दर</string>
+    <string name="time">समय</string>
+    <string name="year">बर्ष</string>
+    <string name="month">महिना</string>
+    <string name="day">दिन</string>
+    <string name="calculate">हिसाब गर्नुहोस्</string>
+    <string name="reset">रिसेट गर्नुहोस्</string>
+    <string name="si">साधारण ब्याज</string>
+    <string name="total">कुल रकम</string>
+    <string name="lang">नेपाली</string>
+    <string name="head">ब्याज हिसाब</string>
+</resources>
